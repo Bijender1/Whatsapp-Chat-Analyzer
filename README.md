@@ -16,7 +16,8 @@ The WhatsApp Chat Analyzer is a powerful tool designed to extract insights and p
 ## Tools Used
 
 - Python
-- Natural Language Processing (NLP) libraries (e.g., NLTK, TextBlob)
 - Data visualization tools (e.g., Matplotlib, Seaborn)
 - pandas (for frame .txt data)
 - streamlit
+- use this to run streamlit: streamlit run public.py
+
