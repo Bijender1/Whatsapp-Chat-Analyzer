@@ -5,7 +5,7 @@ import helper
 import matplotlib.pyplot as plt
 import seaborn as sns
 import emoji
-
+st.sidebar.title("Bijender Kumar's")
 st.sidebar.title("WhatsApp Chat Analyzer")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
